@@ -8,14 +8,24 @@
     ".NETCoreApp,Version=v3.1": {
       "RestApiModeloDDD.Infrastructure/1.0.0": {
         "dependencies": {
+          "Autofac": "5.1.4",
           "Microsoft.EntityFrameworkCore.SqlServer": "3.1.32",
           "Microsoft.SqlServer.SqlManagementObjects": "170.23.0",
           "RestApiModeloDDD.Aplication": "1.0.0",
           "RestApiModeloDDD.Domain": "1.0.0",
-          "RestApiModeloDDD.Domain.Core": "1.0.0"
+          "RestApiModeloDDD.Domain.Core": "1.0.0",
+          "RestApiModeloDDD.Domain.Service": "1.0.0"
         },
         "runtime": {
           "RestApiModeloDDD.Infrastructure.dll": {}
+        }
+      },
+      "Autofac/5.1.4": {
+        "runtime": {
+          "lib/netstandard2.1/Autofac.dll": {
+            "assemblyVersion": "5.1.4.0",
+            "fileVersion": "5.1.4.0"
+          }
         }
       },
       "Azure.Core/1.25.0": {
@@ -982,6 +992,14 @@
         "runtime": {
           "RestApiModeloDDD.Domain.Core.dll": {}
         }
+      },
+      "RestApiModeloDDD.Domain.Service/1.0.0": {
+        "dependencies": {
+          "RestApiModeloDDD.Domain.Core": "1.0.0"
+        },
+        "runtime": {
+          "RestApiModeloDDD.Domain.Service.dll": {}
+        }
       }
     }
   },
@@ -990,6 +1008,13 @@
       "type": "project",
       "serviceable": false,
       "sha512": ""
+    },
+    "Autofac/5.1.4": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-MsAEZJNCBTwZ21cBaFosWvR+zNG3VXB8y8qn3HmYl6m9iR/CDqDQykqBzfApbqj3N1l2I4qVBPA2exIdHJvANQ==",
+      "path": "autofac/5.1.4",
+      "hashPath": "autofac.5.1.4.nupkg.sha512"
     },
     "Azure.Core/1.25.0": {
       "type": "package",
@@ -1513,6 +1538,11 @@
       "sha512": ""
     },
     "RestApiModeloDDD.Domain.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "RestApiModeloDDD.Domain.Service/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

@@ -15,3 +15,5 @@ C:\Users\muril\OneDrive\Área de Trabalho\RestApi-DDD\RestApiModeloDDD.Infrastru
 C:\Users\muril\OneDrive\Área de Trabalho\RestApi-DDD\RestApiModeloDDD.Infrastructure\obj\Debug\netcoreapp3.1\RestApiModeloDDD.Infrastructure.csproj.CopyComplete
 C:\Users\muril\OneDrive\Área de Trabalho\RestApi-DDD\RestApiModeloDDD.Infrastructure\obj\Debug\netcoreapp3.1\RestApiModeloDDD.Infrastructure.dll
 C:\Users\muril\OneDrive\Área de Trabalho\RestApi-DDD\RestApiModeloDDD.Infrastructure\obj\Debug\netcoreapp3.1\RestApiModeloDDD.Infrastructure.pdb
+C:\Users\muril\OneDrive\Área de Trabalho\RestApi-DDD\RestApiModeloDDD.Infrastructure\bin\Debug\netcoreapp3.1\RestApiModeloDDD.Domain.Service.dll
+C:\Users\muril\OneDrive\Área de Trabalho\RestApi-DDD\RestApiModeloDDD.Infrastructure\bin\Debug\netcoreapp3.1\RestApiModeloDDD.Domain.Service.pdb
