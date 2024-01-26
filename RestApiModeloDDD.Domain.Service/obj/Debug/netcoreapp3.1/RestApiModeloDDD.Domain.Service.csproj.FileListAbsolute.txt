@@ -1,0 +1,15 @@
+C:\Users\muril\OneDrive\Área de Trabalho\RestApi-DDD\RestApiModeloDDD.Domain.Service\bin\Debug\netcoreapp3.1\RestApiModeloDDD.Domain.Service.deps.json
+C:\Users\muril\OneDrive\Área de Trabalho\RestApi-DDD\RestApiModeloDDD.Domain.Service\bin\Debug\netcoreapp3.1\RestApiModeloDDD.Domain.Service.dll
+C:\Users\muril\OneDrive\Área de Trabalho\RestApi-DDD\RestApiModeloDDD.Domain.Service\bin\Debug\netcoreapp3.1\RestApiModeloDDD.Domain.Service.pdb
+C:\Users\muril\OneDrive\Área de Trabalho\RestApi-DDD\RestApiModeloDDD.Domain.Service\bin\Debug\netcoreapp3.1\RestApiModeloDDD.Domain.Core.dll
+C:\Users\muril\OneDrive\Área de Trabalho\RestApi-DDD\RestApiModeloDDD.Domain.Service\bin\Debug\netcoreapp3.1\RestApiModeloDDD.Domain.dll
+C:\Users\muril\OneDrive\Área de Trabalho\RestApi-DDD\RestApiModeloDDD.Domain.Service\bin\Debug\netcoreapp3.1\RestApiModeloDDD.Domain.Core.pdb
+C:\Users\muril\OneDrive\Área de Trabalho\RestApi-DDD\RestApiModeloDDD.Domain.Service\bin\Debug\netcoreapp3.1\RestApiModeloDDD.Domain.pdb
+C:\Users\muril\OneDrive\Área de Trabalho\RestApi-DDD\RestApiModeloDDD.Domain.Service\obj\Debug\netcoreapp3.1\RestApiModeloDDD.Domain.Service.csproj.AssemblyReference.cache
+C:\Users\muril\OneDrive\Área de Trabalho\RestApi-DDD\RestApiModeloDDD.Domain.Service\obj\Debug\netcoreapp3.1\RestApiModeloDDD.Domain.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\muril\OneDrive\Área de Trabalho\RestApi-DDD\RestApiModeloDDD.Domain.Service\obj\Debug\netcoreapp3.1\RestApiModeloDDD.Domain.Service.AssemblyInfoInputs.cache
+C:\Users\muril\OneDrive\Área de Trabalho\RestApi-DDD\RestApiModeloDDD.Domain.Service\obj\Debug\netcoreapp3.1\RestApiModeloDDD.Domain.Service.AssemblyInfo.cs
+C:\Users\muril\OneDrive\Área de Trabalho\RestApi-DDD\RestApiModeloDDD.Domain.Service\obj\Debug\netcoreapp3.1\RestApiModeloDDD.Domain.Service.csproj.CoreCompileInputs.cache
+C:\Users\muril\OneDrive\Área de Trabalho\RestApi-DDD\RestApiModeloDDD.Domain.Service\obj\Debug\netcoreapp3.1\RestApiModeloDDD.Domain.Service.csproj.CopyComplete
+C:\Users\muril\OneDrive\Área de Trabalho\RestApi-DDD\RestApiModeloDDD.Domain.Service\obj\Debug\netcoreapp3.1\RestApiModeloDDD.Domain.Service.dll
+C:\Users\muril\OneDrive\Área de Trabalho\RestApi-DDD\RestApiModeloDDD.Domain.Service\obj\Debug\netcoreapp3.1\RestApiModeloDDD.Domain.Service.pdb

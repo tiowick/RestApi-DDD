@@ -6,8 +6,9 @@ using System;
 using System.Collections.Generic;
 using System.Text;
 
-namespace RestApiModeloDDD.Aplication
+namespace RestApiModeloDDD.Aplication 
 {
+    //
     public class AplicatonServiceCliente : IApplicationServiceCliente
     {
 
@@ -23,27 +24,33 @@ namespace RestApiModeloDDD.Aplication
 
         public void Add(ClienteDto clienteDto)
         {
-            throw new NotImplementedException();
+            var cliente = mapperCliente.MapperDtoToEntity(clienteDto);
+            serviceCliente.Add(cliente);
         }
 
         public IEnumerable<ClienteDto> GetAll()
         {
-            throw new NotImplementedException();
+            var cliente = serviceCliente.GetAll();
+            return mapperCliente.MapperListClientesDto(cliente);
         }
 
         public ClienteDto GetById(int id)
         {
-            throw new NotImplementedException();
+            var cliente = serviceCliente.GetById(id);
+            return mapperCliente.MapperDtoToEntity(cliente);
         }
 
         public void Remove(ClienteDto clienteDto)
         {
-            throw new NotImplementedException();
+            var cliente = mapperCliente.MapperDtoToEntity(clienteDto);
+            serviceCliente.Remove(cliente);
         }
 
         public void Update(ClienteDto clienteDto)
         {
-            throw new NotImplementedException();
+            var cliente = mapperCliente.MapperDtoToEntity(clienteDto);
+            serviceCliente.Update(cliente);
+            
         }
     }
 }

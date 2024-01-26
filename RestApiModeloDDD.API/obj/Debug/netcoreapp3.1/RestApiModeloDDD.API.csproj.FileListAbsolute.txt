@@ -39,3 +39,44 @@ C:\Users\muril\OneDrive\Documentos\RestApiModeloDDD\RestApiModeloDDD.API\obj\Deb
 C:\Users\muril\OneDrive\Documentos\RestApiModeloDDD\RestApiModeloDDD.API\obj\Debug\netcoreapp3.1\RestApiModeloDDD.API.pdb
 C:\Users\muril\OneDrive\Documentos\RestApiModeloDDD\RestApiModeloDDD.API\obj\Debug\netcoreapp3.1\RestApiModeloDDD.API.genruntimeconfig.cache
 C:\Users\muril\OneDrive\Documentos\RestApiModeloDDD\RestApiModeloDDD.API\obj\Debug\netcoreapp3.1\RestApiModeloDDD.API.csproj.CopyComplete
+C:\Users\muril\OneDrive\Área de Trabalho\RestApi-DDD\RestApiModeloDDD.API\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\muril\OneDrive\Área de Trabalho\RestApi-DDD\RestApiModeloDDD.API\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\muril\OneDrive\Área de Trabalho\RestApi-DDD\RestApiModeloDDD.API\bin\Debug\netcoreapp3.1\RestApiModeloDDD.API.exe
+C:\Users\muril\OneDrive\Área de Trabalho\RestApi-DDD\RestApiModeloDDD.API\bin\Debug\netcoreapp3.1\RestApiModeloDDD.API.deps.json
+C:\Users\muril\OneDrive\Área de Trabalho\RestApi-DDD\RestApiModeloDDD.API\bin\Debug\netcoreapp3.1\RestApiModeloDDD.API.runtimeconfig.json
+C:\Users\muril\OneDrive\Área de Trabalho\RestApi-DDD\RestApiModeloDDD.API\bin\Debug\netcoreapp3.1\RestApiModeloDDD.API.runtimeconfig.dev.json
+C:\Users\muril\OneDrive\Área de Trabalho\RestApi-DDD\RestApiModeloDDD.API\bin\Debug\netcoreapp3.1\RestApiModeloDDD.API.dll
+C:\Users\muril\OneDrive\Área de Trabalho\RestApi-DDD\RestApiModeloDDD.API\bin\Debug\netcoreapp3.1\RestApiModeloDDD.API.pdb
+C:\Users\muril\OneDrive\Área de Trabalho\RestApi-DDD\RestApiModeloDDD.API\bin\Debug\netcoreapp3.1\RestApiModeloDDD.API.Views.dll
+C:\Users\muril\OneDrive\Área de Trabalho\RestApi-DDD\RestApiModeloDDD.API\bin\Debug\netcoreapp3.1\RestApiModeloDDD.API.Views.pdb
+C:\Users\muril\OneDrive\Área de Trabalho\RestApi-DDD\RestApiModeloDDD.API\obj\Debug\netcoreapp3.1\RestApiModeloDDD.API.csproj.AssemblyReference.cache
+C:\Users\muril\OneDrive\Área de Trabalho\RestApi-DDD\RestApiModeloDDD.API\obj\Debug\netcoreapp3.1\RestApiModeloDDD.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\muril\OneDrive\Área de Trabalho\RestApi-DDD\RestApiModeloDDD.API\obj\Debug\netcoreapp3.1\RestApiModeloDDD.API.AssemblyInfoInputs.cache
+C:\Users\muril\OneDrive\Área de Trabalho\RestApi-DDD\RestApiModeloDDD.API\obj\Debug\netcoreapp3.1\RestApiModeloDDD.API.AssemblyInfo.cs
+C:\Users\muril\OneDrive\Área de Trabalho\RestApi-DDD\RestApiModeloDDD.API\obj\Debug\netcoreapp3.1\RestApiModeloDDD.API.csproj.CoreCompileInputs.cache
+C:\Users\muril\OneDrive\Área de Trabalho\RestApi-DDD\RestApiModeloDDD.API\obj\Debug\netcoreapp3.1\RestApiModeloDDD.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\muril\OneDrive\Área de Trabalho\RestApi-DDD\RestApiModeloDDD.API\obj\Debug\netcoreapp3.1\RestApiModeloDDD.API.RazorAssemblyInfo.cache
+C:\Users\muril\OneDrive\Área de Trabalho\RestApi-DDD\RestApiModeloDDD.API\obj\Debug\netcoreapp3.1\RestApiModeloDDD.API.RazorAssemblyInfo.cs
+C:\Users\muril\OneDrive\Área de Trabalho\RestApi-DDD\RestApiModeloDDD.API\obj\Debug\netcoreapp3.1\staticwebassets\RestApiModeloDDD.API.StaticWebAssets.Manifest.cache
+C:\Users\muril\OneDrive\Área de Trabalho\RestApi-DDD\RestApiModeloDDD.API\obj\Debug\netcoreapp3.1\staticwebassets\RestApiModeloDDD.API.StaticWebAssets.Pack.cache
+C:\Users\muril\OneDrive\Área de Trabalho\RestApi-DDD\RestApiModeloDDD.API\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.RestApiModeloDDD.API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\muril\OneDrive\Área de Trabalho\RestApi-DDD\RestApiModeloDDD.API\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.build.RestApiModeloDDD.API.props
+C:\Users\muril\OneDrive\Área de Trabalho\RestApi-DDD\RestApiModeloDDD.API\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildMultiTargeting.RestApiModeloDDD.API.props
+C:\Users\muril\OneDrive\Área de Trabalho\RestApi-DDD\RestApiModeloDDD.API\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildTransitive.RestApiModeloDDD.API.props
+C:\Users\muril\OneDrive\Área de Trabalho\RestApi-DDD\RestApiModeloDDD.API\obj\Debug\netcoreapp3.1\RestApiModeloDDD.API.TagHelpers.input.cache
+C:\Users\muril\OneDrive\Área de Trabalho\RestApi-DDD\RestApiModeloDDD.API\obj\Debug\netcoreapp3.1\RestApiModeloDDD.API.TagHelpers.output.cache
+C:\Users\muril\OneDrive\Área de Trabalho\RestApi-DDD\RestApiModeloDDD.API\obj\Debug\netcoreapp3.1\RestApiModeloDDD.API.RazorCoreGenerate.cache
+C:\Users\muril\OneDrive\Área de Trabalho\RestApi-DDD\RestApiModeloDDD.API\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+C:\Users\muril\OneDrive\Área de Trabalho\RestApi-DDD\RestApiModeloDDD.API\obj\Debug\netcoreapp3.1\Razor\Pages\Index.cshtml.g.cs
+C:\Users\muril\OneDrive\Área de Trabalho\RestApi-DDD\RestApiModeloDDD.API\obj\Debug\netcoreapp3.1\Razor\Pages\Privacy.cshtml.g.cs
+C:\Users\muril\OneDrive\Área de Trabalho\RestApi-DDD\RestApiModeloDDD.API\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
+C:\Users\muril\OneDrive\Área de Trabalho\RestApi-DDD\RestApiModeloDDD.API\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\muril\OneDrive\Área de Trabalho\RestApi-DDD\RestApiModeloDDD.API\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\Users\muril\OneDrive\Área de Trabalho\RestApi-DDD\RestApiModeloDDD.API\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewStart.cshtml.g.cs
+C:\Users\muril\OneDrive\Área de Trabalho\RestApi-DDD\RestApiModeloDDD.API\obj\Debug\netcoreapp3.1\RestApiModeloDDD.API.RazorTargetAssemblyInfo.cache
+C:\Users\muril\OneDrive\Área de Trabalho\RestApi-DDD\RestApiModeloDDD.API\obj\Debug\netcoreapp3.1\RestApiModeloDDD.API.RazorTargetAssemblyInfo.cs
+C:\Users\muril\OneDrive\Área de Trabalho\RestApi-DDD\RestApiModeloDDD.API\obj\Debug\netcoreapp3.1\RestApiModeloDDD.API.Views.pdb
+C:\Users\muril\OneDrive\Área de Trabalho\RestApi-DDD\RestApiModeloDDD.API\obj\Debug\netcoreapp3.1\RestApiModeloDDD.API.dll
+C:\Users\muril\OneDrive\Área de Trabalho\RestApi-DDD\RestApiModeloDDD.API\obj\Debug\netcoreapp3.1\RestApiModeloDDD.API.pdb
+C:\Users\muril\OneDrive\Área de Trabalho\RestApi-DDD\RestApiModeloDDD.API\obj\Debug\netcoreapp3.1\RestApiModeloDDD.API.genruntimeconfig.cache
+C:\Users\muril\OneDrive\Área de Trabalho\RestApi-DDD\RestApiModeloDDD.API\obj\Debug\netcoreapp3.1\RestApiModeloDDD.API.csproj.CopyComplete
