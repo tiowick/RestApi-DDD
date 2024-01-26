@@ -1,12 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ujn072z+JJKcRb5HddCjx6JiAzh5HuQpwYtKrcYFb18Ect8t+w3qD5eRyofmwETB2CgQ3ERHsv84xWt9OVxymA==",
+  "dgSpecHash": "2oFdopDRvfM80x0BCtXsu4lwCtW7ZvBC+aBAx+bvKAe/FHorZ+IONNjL0m/G4l9yWbGEVbgUtTZtBzlo+nRiOA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Micro\\Desktop\\RestApiModeloDDD\\RestApiModeloDDD.Domain.Service\\RestApiModeloDDD.Domain.Service.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\Micro\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
-    "C:\\Users\\Micro\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
-    "C:\\Users\\Micro\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512"
-  ],
+  "projectFilePath": "C:\\Users\\muril\\OneDrive\\Área de Trabalho\\RestApi-DDD\\RestApiModeloDDD.Domain.Service\\RestApiModeloDDD.Domain.Service.csproj",
+  "expectedPackageFiles": [],
   "logs": []
 }

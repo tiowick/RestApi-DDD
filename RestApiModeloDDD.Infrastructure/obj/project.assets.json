@@ -1390,6 +1390,9 @@
       "RestApiModeloDDD.Aplication/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v3.1",
+        "dependencies": {
+          "RestApiModeloDDD.Domain.Core": "1.0.0"
+        },
         "compile": {
           "bin/placeholder/RestApiModeloDDD.Aplication.dll": {}
         },
@@ -3888,23 +3891,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Micro\\.nuget\\packages\\": {},
+    "C:\\Users\\muril\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Micro\\Desktop\\RestApiModeloDDD\\RestApiModeloDDD.Infrastructure\\RestApiModeloDDD.Infrastructure.csproj",
+      "projectUniqueName": "C:\\Users\\muril\\OneDrive\\Área de Trabalho\\RestApi-DDD\\RestApiModeloDDD.Infrastructure\\RestApiModeloDDD.Infrastructure.csproj",
       "projectName": "RestApiModeloDDD.Infrastructure",
-      "projectPath": "C:\\Users\\Micro\\Desktop\\RestApiModeloDDD\\RestApiModeloDDD.Infrastructure\\RestApiModeloDDD.Infrastructure.csproj",
-      "packagesPath": "C:\\Users\\Micro\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Micro\\Desktop\\RestApiModeloDDD\\RestApiModeloDDD.Infrastructure\\obj\\",
+      "projectPath": "C:\\Users\\muril\\OneDrive\\Área de Trabalho\\RestApi-DDD\\RestApiModeloDDD.Infrastructure\\RestApiModeloDDD.Infrastructure.csproj",
+      "packagesPath": "C:\\Users\\muril\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\muril\\OneDrive\\Área de Trabalho\\RestApi-DDD\\RestApiModeloDDD.Infrastructure\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\Micro\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\muril\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -3913,20 +3916,21 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Users\\Micro\\Desktop\\RestApiModeloDDD\\RestApiModeloDDD.Aplication\\RestApiModeloDDD.Aplication.csproj": {
-              "projectPath": "C:\\Users\\Micro\\Desktop\\RestApiModeloDDD\\RestApiModeloDDD.Aplication\\RestApiModeloDDD.Aplication.csproj"
+            "C:\\Users\\muril\\OneDrive\\Área de Trabalho\\RestApi-DDD\\RestApiModeloDDD.Aplication\\RestApiModeloDDD.Aplication.csproj": {
+              "projectPath": "C:\\Users\\muril\\OneDrive\\Área de Trabalho\\RestApi-DDD\\RestApiModeloDDD.Aplication\\RestApiModeloDDD.Aplication.csproj"
             },
-            "C:\\Users\\Micro\\Desktop\\RestApiModeloDDD\\RestApiModeloDDD.Domain.Core\\RestApiModeloDDD.Domain.Core.csproj": {
-              "projectPath": "C:\\Users\\Micro\\Desktop\\RestApiModeloDDD\\RestApiModeloDDD.Domain.Core\\RestApiModeloDDD.Domain.Core.csproj"
+            "C:\\Users\\muril\\OneDrive\\Área de Trabalho\\RestApi-DDD\\RestApiModeloDDD.Domain.Core\\RestApiModeloDDD.Domain.Core.csproj": {
+              "projectPath": "C:\\Users\\muril\\OneDrive\\Área de Trabalho\\RestApi-DDD\\RestApiModeloDDD.Domain.Core\\RestApiModeloDDD.Domain.Core.csproj"
             },
-            "C:\\Users\\Micro\\Desktop\\RestApiModeloDDD\\RestApiModeloDDD.Domain\\RestApiModeloDDD.Domain.csproj": {
-              "projectPath": "C:\\Users\\Micro\\Desktop\\RestApiModeloDDD\\RestApiModeloDDD.Domain\\RestApiModeloDDD.Domain.csproj"
+            "C:\\Users\\muril\\OneDrive\\Área de Trabalho\\RestApi-DDD\\RestApiModeloDDD.Domain\\RestApiModeloDDD.Domain.csproj": {
+              "projectPath": "C:\\Users\\muril\\OneDrive\\Área de Trabalho\\RestApi-DDD\\RestApiModeloDDD.Domain\\RestApiModeloDDD.Domain.csproj"
             }
           }
         }
@@ -3966,7 +3970,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
       }
     }
   }

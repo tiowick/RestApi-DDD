@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "+cRBxkVqEI270iBYYr2FVzrzV6kSBNO8TOooIqYyXXfZfDm8sxzQGCuwwdg98p118KOGdRhJvGZaVh9azQsKuQ==",
+  "dgSpecHash": "h4I1s7fVSImcL4YdwSTDsnOaUU+ENxZr80lmlElBlWOW7cc0q/v2iGq1gjNbL/GJ9rwo85YIf1lOGh50M72gXw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Micro\\Desktop\\RestApiModeloDDD\\RestApiModeloDDD.API\\RestApiModeloDDD.API.csproj",
+  "projectFilePath": "C:\\Users\\muril\\OneDrive\\Área de Trabalho\\RestApi-DDD\\RestApiModeloDDD.API\\RestApiModeloDDD.API.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

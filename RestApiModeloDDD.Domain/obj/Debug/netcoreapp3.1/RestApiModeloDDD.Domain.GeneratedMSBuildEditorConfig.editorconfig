@@ -1,5 +1,3 @@
 is_global = true
 build_property.RootNamespace = RestApiModeloDDD.Domain
-build_property.ProjectDir = C:\Users\Micro\Desktop\RestApiModeloDDD\RestApiModeloDDD.Domain\
-build_property.EnableComHosting = 
-build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.ProjectDir = C:\Users\muril\OneDrive\Área de Trabalho\RestApi-DDD\RestApiModeloDDD.Domain\
