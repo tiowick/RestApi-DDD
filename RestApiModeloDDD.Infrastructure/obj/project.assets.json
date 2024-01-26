@@ -2,6 +2,19 @@
   "version": 3,
   "targets": {
     ".NETCoreApp,Version=v3.1": {
+      "Autofac/5.1.4": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.1/Autofac.dll": {
+            "related": ".pdb;.xml"
+          }
+        },
+        "runtime": {
+          "lib/netstandard2.1/Autofac.dll": {
+            "related": ".pdb;.xml"
+          }
+        }
+      },
       "Azure.Core/1.25.0": {
         "type": "package",
         "dependencies": {
@@ -1422,10 +1435,44 @@
         "runtime": {
           "bin/placeholder/RestApiModeloDDD.Domain.Core.dll": {}
         }
+      },
+      "RestApiModeloDDD.Domain.Service/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "dependencies": {
+          "RestApiModeloDDD.Domain.Core": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/RestApiModeloDDD.Domain.Service.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/RestApiModeloDDD.Domain.Service.dll": {}
+        }
       }
     }
   },
   "libraries": {
+    "Autofac/5.1.4": {
+      "sha512": "MsAEZJNCBTwZ21cBaFosWvR+zNG3VXB8y8qn3HmYl6m9iR/CDqDQykqBzfApbqj3N1l2I4qVBPA2exIdHJvANQ==",
+      "type": "package",
+      "path": "autofac/5.1.4",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "autofac.5.1.4.nupkg.sha512",
+        "autofac.nuspec",
+        "icon.png",
+        "lib/net461/Autofac.dll",
+        "lib/net461/Autofac.pdb",
+        "lib/net461/Autofac.xml",
+        "lib/netstandard2.0/Autofac.dll",
+        "lib/netstandard2.0/Autofac.pdb",
+        "lib/netstandard2.0/Autofac.xml",
+        "lib/netstandard2.1/Autofac.dll",
+        "lib/netstandard2.1/Autofac.pdb",
+        "lib/netstandard2.1/Autofac.xml"
+      ]
+    },
     "Azure.Core/1.25.0": {
       "sha512": "X8Dd4sAggS84KScWIjEbFAdt2U1KDolQopTPoHVubG2y3CM54f9l6asVrP5Uy384NWXjsspPYaJgz5xHc+KvTA==",
       "type": "package",
@@ -3879,15 +3926,22 @@
       "type": "project",
       "path": "../RestApiModeloDDD.Domain.Core/RestApiModeloDDD.Domain.Core.csproj",
       "msbuildProject": "../RestApiModeloDDD.Domain.Core/RestApiModeloDDD.Domain.Core.csproj"
+    },
+    "RestApiModeloDDD.Domain.Service/1.0.0": {
+      "type": "project",
+      "path": "../RestApiModeloDDD.Domain.Service/RestApiModeloDDD.Domain.Service.csproj",
+      "msbuildProject": "../RestApiModeloDDD.Domain.Service/RestApiModeloDDD.Domain.Service.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v3.1": [
+      "Autofac >= 5.1.4",
       "Microsoft.EntityFrameworkCore.SqlServer >= 3.1.32",
       "Microsoft.SqlServer.SqlManagementObjects >= 170.23.0",
       "RestApiModeloDDD.Aplication >= 1.0.0",
       "RestApiModeloDDD.Domain >= 1.0.0",
-      "RestApiModeloDDD.Domain.Core >= 1.0.0"
+      "RestApiModeloDDD.Domain.Core >= 1.0.0",
+      "RestApiModeloDDD.Domain.Service >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -3929,6 +3983,9 @@
             "C:\\Users\\muril\\OneDrive\\Área de Trabalho\\RestApi-DDD\\RestApiModeloDDD.Domain.Core\\RestApiModeloDDD.Domain.Core.csproj": {
               "projectPath": "C:\\Users\\muril\\OneDrive\\Área de Trabalho\\RestApi-DDD\\RestApiModeloDDD.Domain.Core\\RestApiModeloDDD.Domain.Core.csproj"
             },
+            "C:\\Users\\muril\\OneDrive\\Área de Trabalho\\RestApi-DDD\\RestApiModeloDDD.Domain.Service\\RestApiModeloDDD.Domain.Service.csproj": {
+              "projectPath": "C:\\Users\\muril\\OneDrive\\Área de Trabalho\\RestApi-DDD\\RestApiModeloDDD.Domain.Service\\RestApiModeloDDD.Domain.Service.csproj"
+            },
             "C:\\Users\\muril\\OneDrive\\Área de Trabalho\\RestApi-DDD\\RestApiModeloDDD.Domain\\RestApiModeloDDD.Domain.csproj": {
               "projectPath": "C:\\Users\\muril\\OneDrive\\Área de Trabalho\\RestApi-DDD\\RestApiModeloDDD.Domain\\RestApiModeloDDD.Domain.csproj"
             }
@@ -3945,6 +4002,10 @@
       "netcoreapp3.1": {
         "targetAlias": "netcoreapp3.1",
         "dependencies": {
+          "Autofac": {
+            "target": "Package",
+            "version": "[5.1.4, )"
+          },
           "Microsoft.EntityFrameworkCore.SqlServer": {
             "target": "Package",
             "version": "[3.1.32, )"

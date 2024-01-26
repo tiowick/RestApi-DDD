@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "Yf6BN5PrLHeMk78TnY+LiFqav75t0j5Ghaxw7cb/545cu8T1T/3b9MwUh8kAxl3Zy56IBp3vKaGQClr/P/evFQ==",
+  "dgSpecHash": "KUXhWunyqfRB5p/yOkjNwKAXtGbmepDMkOUqzYScFeapUkHlDBRoRIRV77aNJM2NumxFo1z6GzcscPuemz64zA==",
   "success": true,
   "projectFilePath": "C:\\Users\\muril\\OneDrive\\Área de Trabalho\\RestApi-DDD\\RestApiModeloDDD.Infrastructure\\RestApiModeloDDD.Infrastructure.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\muril\\.nuget\\packages\\autofac\\5.1.4\\autofac.5.1.4.nupkg.sha512",
     "C:\\Users\\muril\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\muril\\.nuget\\packages\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",
     "C:\\Users\\muril\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
